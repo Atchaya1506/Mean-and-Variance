@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+# Exp No : 1 Mean and variance of a discrete  distribution
 
 # Date : 10/10/2024
 
