@@ -42,8 +42,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 5.  Calculate variance using 
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
-
-
+    
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
@@ -76,8 +75,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-
-
 # Output : 
 ```
 12345
@@ -85,7 +82,6 @@ The Mean arrival rate is 12345.000
 The Variance of arrival from feeder is 0.000 
 The Standard deviation of arrival from feeder is 0.000 
 ```
-
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
